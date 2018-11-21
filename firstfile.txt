@@ -8,3 +8,5 @@ im ur friend
 diff example
 
 direct commit
+
+hello commit
