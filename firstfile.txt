@@ -6,3 +6,5 @@ im ur friend
 
 
 diff example
+
+direct commit
